@@ -1,7 +1,4 @@
-html {
-    font-family: monospace;
-    font-size: 15px
-        
+
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
   :root {
@@ -312,5 +309,4 @@ html {
 
   .export-row { margin-top: 20px; }
 
-}
 
